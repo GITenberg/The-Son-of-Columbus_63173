@@ -1,5 +1,8 @@
 _repo: The-Son-of-Columbus_63173
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63173-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Seawell, Molly Elliot
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
     - http://www.gutenberg.org/ebooks/author/43099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63173#The-Son-of-Columbus
 gutenberg_issued: '2020-09-10'
 gutenberg_type: Text
 identifiers:
